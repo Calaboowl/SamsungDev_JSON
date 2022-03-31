@@ -1,0 +1,274 @@
+{
+    "Supermercados": [
+        {
+            "nombre": "AhorraMas",
+            "dirección": "Av. de Portugal, 4, 45005 Toledo",
+            "geolocalización": [
+                "39°52'24.3\"N",
+                "4°02'16.1\"W"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Lácteos",
+                    "productos": [
+                        {
+                            "nombre": "Leche sin lactosa",
+                            "oferta": false,
+                            "habitual": true,
+                            "vigencia": [
+                                "27/03/2022",
+                                "27/06/2022"
+                            ],
+                            "unidades": 6,
+                            "medida": "Litros (1)",
+                            "precio": 5.10,
+                            "descripción": "Marca blanca, rica en vitaminas y ácido fólico",
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Queso lonchas",
+                            "oferta": false,
+                            "habitual": true,
+                            "vigencia": [
+                                "25/03/2022",
+                                "14/04/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Gramos (250)",
+                            "precio": 1.38,
+                            "descripción": "Queso Gouda, marca blanca",
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Yogur griego natural",
+                            "oferta": true,
+                            "habitual": true,
+                            "vigencia": [
+                                "26/03/2022",
+                                "05/04/2022"
+                            ],
+                            "unidades": 6,
+                            "medida": "Gramos (125)",
+                            "precio": 1.20,
+                            "descripción": "Sin azúcar, marca blanca",
+                            "adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Diario",
+                    "productos": [
+                        {
+                            "nombre": "Huevos",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "15/03/2022",
+                                "30/03/2022"
+                            ],
+                            "unidades": 12,
+                            "medida": "Unidades (12)",
+                            "precio": 2.25,
+                            "descripción": "Gallinas camperas, tamaño L, calidad A",
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Pan de molde",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "10/03/2022",
+                                "10/04/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Gramos (400)",
+                            "precio": 1.16,
+                            "descripción": "Integral con semillas",
+                            "adquirido": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "dirección": "Av. Francia, Pl. de Grecia, 2, 45005 Toledo",
+            "geolocalización": [
+                "39°52'55.9\"N",
+                "4°01'31.8\"W"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Lácteos",
+                    "productos": [
+                        {
+                            "nombre": "Leche sin lactosa",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "26/03/2022",
+                                "03/04/2022"
+                            ],
+                            "unidades": 4,
+                            "medida": "Litros (1)",
+                            "precio": 4.85,
+                            "descripción": "Semidesnatada, de vacas en semilibertad",
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Queso lonchas",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "20/03/2022",
+                                "07/03/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Gramos (300)",
+                            "precio": 2.12,
+                            "descripción": "Queso Emmental, bajo en grasas",
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Yogur griego natural",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "24/03/2022",
+                                "08/04/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Litros (1)",
+                            "precio": 2.45,
+                            "descripción": "Tarrina grande, sin azúcar",
+                            "adquirido": false
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Diario",
+                    "productos": [
+                        {
+                            "nombre": "Huevos",
+                            "oferta": true,
+                            "habitual": true,
+                            "vigencia": [
+                                "25/03/2022",
+                                "10/04/2022"
+                            ],
+                            "unidades": 10,
+                            "medida": "Unidades (10)",
+                            "precio": 2.18,
+                            "descripción": "Gallinas de suelo, tamaño L",
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Pan de molde",
+                            "oferta": false,
+                            "habitual": true,
+                            "vigencia": [
+                                "18/03/2022",
+                                "18/04/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Gramos (675)",
+                            "precio": 1.29,
+                            "descripción": "Con centeno, 15 cereales y semillas",
+                            "adquirido": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "dirección": "Pl. de Grecia, 45005 Toledo",
+            "geolocalización": [
+                "39°52'57.5\"N",
+                "4°01'32.3\"W"
+            ],
+            "secciones": [
+                {
+                    "nombre": "Lácteos",
+                    "productos": [
+                        {
+                            "nombre": "Leche sin lactosa",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "16/03/2022",
+                                "15/04/2022"
+                            ],
+                            "unidades": 6,
+                            "medida": "Litros (1)",
+                            "precio": 5.35,
+                            "descripción": "Desnatada, marca blanca",
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Queso lonchas",
+                            "oferta": true,
+                            "habitual": false,
+                            "vigencia": [
+                                "18/03/2022",
+                                "05/04/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Gramos (250)",
+                            "precio": 1.88,
+                            "descripción": "Queso Edamer, lonchas finas",
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Yogur griego natural",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "23/03/2022",
+                                "30/03/2022"
+                            ],
+                            "unidades": 4,
+                            "medida": "Gramos (125)",
+                            "precio": 1.14,
+                            "descripción": "Azucarado, marca blanca",
+                            "adquirido": false
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Diario",
+                    "productos": [
+                        {
+                            "nombre": "Huevos",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "20/03/2022",
+                                "31/03/2022"
+                            ],
+                            "unidades": 12,
+                            "medida": "Unidades (12)",
+                            "precio": 2.88,
+                            "descripción": "Gallinas camperas, calidad suprema",
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Pan de molde",
+                            "oferta": false,
+                            "habitual": false,
+                            "vigencia": [
+                                "15/03/2022",
+                                "15/04/2022"
+                            ],
+                            "unidades": 1,
+                            "medida": "Gramos (500)",
+                            "precio": 1.36,
+                            "descripción": "De Avena con 17% de semillas",
+                            "adquirido": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
